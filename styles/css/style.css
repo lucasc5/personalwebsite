@@ -1,0 +1,39 @@
+body{
+   background: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/computer-science-background-8.jpg)
+   no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+
+}
+
+
+
+header{
+    /* float: right; */
+    color: white;
+     margin-right: 80px;
+     position: absolute; 
+    top: 0; 
+    right:0; 
+    text-align: right;
+}
+ .content{
+     text-align: center;
+     color:whitesmoke;
+     font-size: 40px;
+     padding-top: 1px;
+     padding-left:10px;
+     margin-top: 20%;
+    
+    }
+    h1{
+        font-family:'Faster One' , cursive;
+    }
+    header{
+        font-family: 'Faster One', cursive;
+    }
+    h2{
+        font-family: 'Faster One', cursive;
+    }
